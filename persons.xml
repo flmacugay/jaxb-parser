@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Person>
+		<firstname>froilan</firstname>
+		<lastname>macugay</lastname>
+		<nickname>louie</nickname>
+		<salary>100000</salary>
+		<house type="residential">
+			<unit>123</unit>
+			<street>South Road</street>
+			<postal>3204</postal>
+		</house>
+		<house type="mailing">
+			<unit>456</unit>
+			<street>S Road</street>
+			<postal>3333</postal>
+		</house>
+		<car>toyota</cars>
+		<car>mazda</cars>
+		<car>honda</cars>
+</Person>

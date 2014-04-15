@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<company>
+	<staff id="1001">
+		<firstname>froilan</firstname>
+		<lastname>macugay</lastname>
+		<nickname>louie</nickname>
+		<salary>100000</salary>
+		<house type="residential">
+			<address>123 South Road</address>
+		</house>
+		<house type="mailing">
+			<address>456 South Road</address>
+		</house>
+		<cars>toyota</cars>
+		<cars>mazda</cars>
+		<cars>honda</cars>
+	</staff>
+	<staff id="2001">
+		<firstname>mary ann</firstname>
+		<lastname>macugay</lastname>
+		<nickname>eann</nickname>
+		<salary>200000</salary>
+	</staff>
+</company>
